@@ -37,9 +37,9 @@ void setupProdDebugEnv()
   setupDebugEnv();
 
   Serial.println();
-  Serial.println("---------------------------------------------");
-  Serial.println("Hello from Wiring Controller!");
-  Serial.println("---------------------------------------------");
+  Serial.println("--------------------------------------------------");
+  Serial.println("Hello from the Adafruit FRAM SPI Test Application!");
+  Serial.println("--------------------------------------------------");
   Serial.println();
 }
 
